@@ -2,4 +2,4 @@
 
 Scoped CSS Variables and JS
 
-<a href="https://peeyush-pant.github.io/CSS-Var/"></a>
+<a href="https://peeyush-pant.github.io/CSS-Var/">Demo</a>
